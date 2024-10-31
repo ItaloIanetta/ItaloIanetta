@@ -5,9 +5,12 @@
 <hr style="border: 3px solid black;">
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Anton&duration=3000&color=8A2BE2&center=true&vCenter=true&lines=;Hello!!;My+name+is+Italo+Ianetta;I'm+27+years+old;I'm+from+Brazil;A+Data+Scientist;Be+Welcome!+:%29" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3000&color=0000ff&center=true&vCenter=true&lines=;Hello!!;My+name+is+Italo+Ianetta;I'm+27+years+old;I'm+from+Brazil;A+Data+Scientist;Be+Welcome!+:%29" alt="Typing SVG" />
 </p>
 
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3000&color=0000ff&center=true&vCenter=true&lines=;Olá!!;Me+chamo+Italo+Ianetta;Tenho+27+anos;Moro+em+São+Paulo;E+curso+Ciências+de+Dados+na+EBAC;Seja+Bem-Vindo!+:%29" alt="Typing SVG" />
+</p>
 
 ## Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
